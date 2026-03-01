@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "jU7G8emmuBk=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Новая папка\\eggman\\Exam\\BusinessLogicContracts\\BusinessLogicContracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.13\\microsoft.windowsdesktop.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.13\\microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.13\\microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Не удалось найти сведения о проекте для \"C:\\Users\\User\\Desktop\\Новая папка\\eggman\\Exam\\Exam\\ExamContractModel.csproj\". Если вы используете Visual Studio, причина может заключаться в том, что проект выгружен или не является частью текущего решения. В этом случае выполните восстановление из командной строки. В противном случае причина может быть связана с тем, что файл проекта является недопустимым или отсутствуют целевые объекты, необходимые для восстановления.",
+      "projectPath": "C:\\Users\\User\\Desktop\\Новая папка\\eggman\\Exam\\BusinessLogicContracts\\BusinessLogicContracts.csproj",
+      "filePath": "C:\\Users\\User\\Desktop\\Новая папка\\eggman\\Exam\\BusinessLogicContracts\\BusinessLogicContracts.csproj",
+      "libraryId": "C:\\Users\\User\\Desktop\\Новая папка\\eggman\\Exam\\Exam\\ExamContractModel.csproj",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
